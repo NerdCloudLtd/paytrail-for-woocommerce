@@ -1,4 +1,4 @@
-AAA
+BBBBB
 
 === Paytrail for WooCommerce ===
 Contributors: loueranta
