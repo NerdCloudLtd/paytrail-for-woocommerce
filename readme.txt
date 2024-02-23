@@ -1,3 +1,5 @@
+AAA
+
 === Paytrail for WooCommerce ===
 Contributors: loueranta
 Donate link: https://www.paytrail.com/
